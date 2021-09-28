@@ -1,10 +1,11 @@
 {
-  "name": "pte_api",
+  "name": "workshop_api",
   "version": "1.0.0",
   "description": "api",
   "main": "server.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
